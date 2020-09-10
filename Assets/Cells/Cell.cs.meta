@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b4bba51b792002a4c9ca6ea9a4f55511
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_Sprite: {fileID: 21300000, guid: 01fb3a8921fb3904dbaf23036afa536c, type: 3}
+  - m_InstancedGameObject: {instanceID: 0}
+  - AliveCell: {fileID: 21300000, guid: 00fc41d48e74cc441b70e3d90e9d9baa, type: 3}
+  - DeadCell: {fileID: 21300000, guid: 355f7f71dd5974e40819dfd78915bb9d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
